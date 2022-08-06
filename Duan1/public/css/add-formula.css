@@ -1,0 +1,79 @@
+.grid__app {
+    margin: 40px 350px;
+}
+
+.add__formula {
+    background-color: white;
+    padding: 20px;
+}
+
+.title__add-formula p {
+    font-size:40px;
+    margin: 0;
+}
+
+.step {
+    padding: 10px 0;
+}
+
+.introduction__step span {
+    font-size:23px;
+    font-weight: 650;
+    text-decoration: underline;
+    color: #002cee;
+}
+
+.input__group--dish {
+    width:400px;
+}
+
+.add__fields  {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.info__ingredient {
+    width:1286px;
+}
+
+.space-1 {
+    flex-basis: 32%;
+}
+
+.space-2 {
+    flex-basis: 21%;
+}
+.space-3 {
+    flex-basis: 21.3%;
+}
+.space-4 {
+    flex-basis: 21%;
+}
+
+.ingredient {
+    flex-basis: 30%;
+}
+
+.quantity {
+    flex-basis: 20%;
+}
+
+.unit {
+    flex-basis: 20%;
+}
+
+.note {
+    flex-basis: 20%;
+}
+
+.delete-input {
+    text-align: center;
+    flex-basis: 5%;
+    color:red;
+    font-size:30px;
+}
+
+.btn__dangers {
+    padding: 10px;
+}
